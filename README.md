@@ -7,6 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Software engineering is the process of designing, developing, testing, and maintaining software systems using a disciplined and organized approach. It applies engineering principles and best practices to create high-quality, reliable, and maintainable software that solves real-world problems.
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
